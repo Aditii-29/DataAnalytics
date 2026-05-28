@@ -1,2 +1,0 @@
-# DataAnalytics
-Data Analytics Projects
